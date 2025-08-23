@@ -1,7 +1,7 @@
 ### Doing nerd stuff so you don't have to. 
 #### ... since 2018. 🧐
 ---
-Need my help? My top languages are:
+Need any help? My top languages are:
   - Bash
   - PowerShell
   - AHK
