@@ -14,7 +14,7 @@ I can navigate Javascript and web APIs some but still learning a lot. Fairly com
 
 - 🔭 I’m currently working on: scripted config of Windows, Linux, & Android
 - 🔮 What I might work on next: web extensions for Firefox and Obsidian
-- 🌱 I’m currently learning: Selenium WebDriver, P2V system image virtualization with Clonezilla/VirtualBox
+- 🌱 I’m currently learning: Selenium WebDriver, P2V system image virtualization with Clonezilla and VirtualBox
 - 🤔 I’m looking for help with: DIY driver injection, bare-metal deployments
 - 🎭 I’m looking to collaborate on: PowerShell utilities for editors & creators 📹
 - 🧠 I'm interested in learning more about: Unity (someday, Lol)
