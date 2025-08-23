@@ -23,4 +23,4 @@ I can navigate Javascript and web APIs some but still learning a lot. Fairly com
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: I stream on Twitch as spaceman0051 🎮 catching any and all gut-buster moments w/ friends. 😂
 - ⚽ Hobbies: I enjoy editing 🎧 & posting videos to share stuff I know. 🎥
-- 💚 Projects I'm obsessed with rn: GrapheneOS, Obsidian
+- 💚 Projects I'm obsessed with: GrapheneOS, Obsidian
