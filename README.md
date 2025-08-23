@@ -12,7 +12,7 @@ Focus Areas:
 
 I can navigate Javascript and web APIs some but still learning a lot. Fairly comfortable with Python and Java as well. Trained in C++ (haven't used in a while)
 
-- 🔭 I’m currently working on: scripted deployments of Windows, Linux, & Android
+- 🔭 I’m currently working on: scripted config of Windows, Linux, & Android
 - 🔮 What I might work on next: web extensions for Firefox and Obsidian
 - 🌱 I’m currently learning: Selenium WebDriver, P2V system image virtualization with Clonezilla and VirtualBox
 - 🤔 I’m looking for help with: DIY driver injection, bare-metal deployments
