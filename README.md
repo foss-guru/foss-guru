@@ -3,7 +3,7 @@ Need my help? My top languages are:
   - Bash
   - PowerShell
   - AHK
-  - 
+
 I can navigate Javascript and web APIs some but still learning a lot. Fairly comfortable with Python and Java as well. Trained in C++ (don't use it that often)
 
 - 🔭 I’m currently working on: scripted deployments of Windows, Linux, & Android
