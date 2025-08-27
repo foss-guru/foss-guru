@@ -20,10 +20,10 @@ I can navigate Javascript and web APIs some but still learning a lot. Fairly com
 - 🧠 I'm interested in learning more about: Unity 👾 (someday, Lol)
 - 💬 Ask me about: Audio/Video Production 🎬 mixing, sound design 🎛 synthesizers 🎹 (I've been doing this even longer than coding)
 - 📫 How to reach me: zach@adminstarbase.com, zach@championdreamermusic.com 📧 Facebook Messenger 📱
-- 😶 Pronouns: He/Him/They 😎
+- 😶 Pronouns: He/Him
 - ⚡ Fun fact: I stream on Twitch as spaceman0051 🎮 catching any and all gut-buster moments w/ friends. 😂
 - ⚽ Hobbies: I enjoy editing 🎧 & posting videos to share what I know. 🎥
-- 💚 Projects I'm obsessed with rn: GrapheneOS, SteamOS, Obsidian
+- 💚 Projects I'm obsessed with rn: GrapheneOS, SteamOS, Obsidian 😎
 - ⏳ If time was no object I'd screw around with: Bootable Android environment on a USB 😆
 
 Need a killer programming soundtrack?: [Click me, I'm free. 😁](https://open.spotify.com/playlist/4ayeUEcFxn6AkAEktLrfBW?si=ea21f57cfee84aab)
