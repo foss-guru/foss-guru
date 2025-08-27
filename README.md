@@ -1,10 +1,10 @@
 ### Doing nerd stuff so you don't have to. 
 #### ... since 2018. 🧐
 ---
-Need any help? My top languages are:
-  - Bash
-  - PowerShell
-  - AHK
+Need any help? My top languages are:  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+<img src="https://www.autohotkey.com/static/ahk_logo.svg" height="28" alt="AutoHotkey" />
 
 Focus Areas:
   - Automation
